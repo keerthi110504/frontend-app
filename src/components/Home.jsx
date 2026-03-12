@@ -5,7 +5,7 @@ function Home() {
   const navigate = useNavigate();
 
   const addToCart = () => {
-    navigate("/cart");
+    navigate("/Cart");
   };
 
   return (
